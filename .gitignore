@@ -1,0 +1,7 @@
+# Installers are uploaded as GitHub Release assets, never committed.
+*.exe
+*.dmg
+*.zip
+*.msi
+*.pkg
+*.blockmap
